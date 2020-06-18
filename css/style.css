@@ -423,7 +423,7 @@ div.menu2 span:first-child a{
       background-image: url('../img/foto1.jpg'); 
 }
 .slider-foto2 {
-      background-image: url('../img/foto2.JPG');
+      background-image: url('../img/foto2.jpg');
 }
 
 .slider-foto3 {
@@ -852,7 +852,7 @@ div > .user1{
        animation: animation1 48s infinite ease-in-out; 
 }
 .gallery .slider-foto2 {
-       background-image: url('../img/foto2.JPG');
+       background-image: url('../img/foto2.jpg');
        animation: animation2 48s infinite ease-in-out;
 }
 
@@ -861,16 +861,16 @@ div > .user1{
        animation: animation3 48s infinite ease-in-out;
 }
 .gallery .slider-foto4 {
-       background-image: url('../img/foto4.JPG'); 
+       background-image: url('../img/foto4.jpg'); 
        animation: animation4 48s infinite ease-in-out;
 }
 .gallery .slider-foto5 {
-       background-image: url('../img/foto5.JPG');
+       background-image: url('../img/foto5.jpg');
        animation: animation5 48s infinite ease-in-out;
 }
 
 .gallery .slider-foto6 {
-       background-image: url('../img/foto6.JPG');
+       background-image: url('../img/foto6.jpg');
        animation: animation6 48s infinite ease-in-out;
 }
 
